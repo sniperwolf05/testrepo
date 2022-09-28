@@ -1,0 +1,12 @@
+hmp
+network direct connect
+dc audit
+
+pip3 install -U netmiko
+pip install netmiko
+
+==============================
+
+How to install python and netmiko
+sudo apt install python3-pip
+sudo pip3 install -U netmiko
